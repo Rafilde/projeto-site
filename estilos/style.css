@@ -15,3 +15,6 @@ main{
 h1, h2 {
     color: rgb(62, 0, 124);
 }
+img.lado{
+    float: right;
+}
